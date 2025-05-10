@@ -78,6 +78,6 @@ This dashboard transforms raw sales and returns data into a **strategic decision
 
 ## 👤 Author
 
-**[Your Name]** – Aspiring Data Analyst with a focus on making data insightful and actionable. Passionate about turning spreadsheets into stories that drive decisions.
+**Gbenga P.** – Aspiring Data Analyst with a focus on making data insightful and actionable. Passionate about turning spreadsheets into stories that drive decisions.
 
 ---
